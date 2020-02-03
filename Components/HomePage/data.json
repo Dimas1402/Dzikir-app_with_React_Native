@@ -1,0 +1,12 @@
+{
+    "data":[
+        {
+            "id":1,
+            "title":"Zikir Pagi"
+        },
+        {
+            "id":2,
+            "title":"Zikir Petang"
+        }
+    ]
+}
